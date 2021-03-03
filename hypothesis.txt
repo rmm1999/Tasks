@@ -1,0 +1,2 @@
+#Hypothesis: The mass of a lizard hatchling will effect the speed at which it runs. The more mass it has, the slower it runs.
+lizard_data <- read.csv("lizard_data.csv")
